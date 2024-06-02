@@ -1,0 +1,2 @@
+
+👋 Hey there! I'm Deepak Ghimire, an enthusiastic student fueled by passion for both IT and science. Embarking on a journey to shape my career in this dynamic field, I've taken charge of learning coding independently. The allure of technology has always captivated me, driving my relentless pursuit of knowledge. Alongside, my interest in science adds another layer of excitement to my journey. Let's join forces and explore the endless possibilities of IT and science together! 🚀🔬
