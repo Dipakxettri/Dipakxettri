@@ -3,7 +3,7 @@
 I'm Deepak, a passionate developer interested in IT.
 
 - 🌱 I’m currently learning [Java](https://libgdx.badlogicgames.com/)
-- - 📫 How to reach me: [deepakghimire5665@gmail.com]
+- - 📫 How to reach me: deepakghimire5665@gmail.com
 - 😄 Pronouns: He/Him
 
 ## 💻 Tech Stack:
