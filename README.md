@@ -3,11 +3,8 @@
 I'm Deepak, a passionate developer interested in IT.
 
 - 🌱 I’m currently learning [Java](https://libgdx.badlogicgames.com/)
-- 📫 How to reach me: [codeepakghimire@gmail.com]
+- - 📫 How to reach me: [deepakghimire5665@gmail.com]
 - 😄 Pronouns: He/Him
-
-## ⚡ Fun fact
-I love the taste of chana beans with chili and usually eat them daily!😄
 
 ## 💻 Tech Stack:
 
