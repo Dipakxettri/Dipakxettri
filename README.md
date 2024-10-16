@@ -1,6 +1,6 @@
 👋 Hey there! I'm Deepak Ghimire, a student passionate about IT and science. I'm learning coding independently to forge a career in this dynamic field. Join me as I explore the exciting intersection of IT and science! 🚀🔬
 
-- I’m currently learning : [Java & DSA](https://github.com/Dipakxettri/100-days-java-challenge.git)
+- My Learnings : [Learing Journey](https://github.com/Dipakxettri/Learning-Journey-.git)
 - 📫 How to reach me: [FB](https://www.facebook.com/profile.php?id=100079970976913)
 
 ## 💻 Tech Stack:
