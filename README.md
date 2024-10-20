@@ -1,5 +1,7 @@
 👋 Hey there! I'm Deepak Ghimire, a student passionate about IT and science. I'm learning coding independently to forge a career in this dynamic field. Join me as I explore the exciting intersection of IT and science! 🚀🔬
 
+FunFact : I am learing IT/coding  skills from 1.5 years in mobile without laptop/pc 😁😀.
+
 - Currently Learnings : [FullStackWebDev](https://github.com/Dipakxettri/Learning-Journey-.git)
 - 📫 How to reach me: [FB](https://www.facebook.com/profile.php?id=100079970976913)
 
