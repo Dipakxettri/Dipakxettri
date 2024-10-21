@@ -3,7 +3,7 @@
 FunFact : I am learing IT/coding  skills from 1.5 years in mobile without laptop/pc 😁😀.
 
 - Currently Learnings : [FullStackWebDev](https://github.com/Dipakxettri/Learning-Journey-.git)
-- 📫 How to reach me: [FB](https://www.facebook.com/profile.php?id=100079970976913)
+- 📫 How to reach me: [Face Book](https://www.facebook.com/profile.php?id=100079970976913)
 
 ## 💻 Tech Stack:
 
