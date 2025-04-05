@@ -17,7 +17,7 @@
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ## 🧩 Leet Code
-<img src="https://leetcard.jacoblin.cool/dipakxettri?ext=heatmap" width="400"/>
+<img src="https://leetcard.jacoblin.cool/dipakxettri?" width="400"/>
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipakxettri&show_icons=true&theme=radical)
