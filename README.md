@@ -19,7 +19,10 @@
 [![100Days Challenge](https://img.shields.io/badge/100Days-26%2F100-blue?style=for-the-badge)](https://github.com/yourusername/your-repo-name)
 
 
-[███████████████---------------] 26%
+## 💯 100Days Challenge Progress
+
+[![100Days Challenge](https://img.shields.io/badge/100Days_Challenge-26%2F100-blue?style=for-the-badge&logo=github)](https://github.com/Dipakxettri/100Days-ProblemSolving)
+
 
 
 ## 🧩 Leet Code
