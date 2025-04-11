@@ -12,7 +12,8 @@
 
 
 
-[![wakatime](https://wakatime.com/badge/user/dipakxettri.svg)](https://wakatime.com/@dipakxettri)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipakxettri&layout=compact&theme=radical&hide_title=true&hide=html&langs_count=5)
+
 
 
 
