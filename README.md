@@ -16,10 +16,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-## Challenges
-### 💯 100 Days of Problem Solving Challenge
+[![100Days Challenge](https://img.shields.io/badge/100Days-26%2F100-blue?style=for-the-badge)](https://github.com/yourusername/your-repo-name)
 
-**Progress:** 26/100 Days Completed
 
 [███████████████---------------] 26%
 
