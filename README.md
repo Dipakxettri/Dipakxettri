@@ -19,7 +19,7 @@
 
 ## 🔥Challenges
 
-[![100 Days Problum Solving](https://img.shields.io/badge/100Days_Problum_Solving-26%2F100-blue?style=for-the-badge&logo=github)](https://github.com/Dipakxettri/100DaysProblemSolving)
+[![100 Days Problum Solving](https://img.shields.io/badge/100Days_Problum_Solving-26%2F100-blue?style=for-the-badge&logo=github)](https://https://github.com/Dipakxettri/100DaysProblumSolving)
 
 
 
