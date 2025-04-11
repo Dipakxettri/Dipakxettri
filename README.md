@@ -10,15 +10,6 @@
 [![100 Days Problem Solving](https://img.shields.io/badge/100_Days_Problem_Solving-5/100-blue?style=for-the-badge&logo=pivotaltracker&logoColor=white)](https://github.com/Dipakxettri/100DaysProblumSolving)
 
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipakxettri&layout=compact&theme=radical&hide_title=true&hide=html&langs_count=5)
-
-
-
-
-
-
-
 ## 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
