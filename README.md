@@ -17,7 +17,7 @@
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 
-## Challenges
+## 🔥Challenges
 
 [![100 Days Problum Solving](https://img.shields.io/badge/100Days_Problum_Solving-26%2F100-blue?style=for-the-badge&logo=github)](https://github.com/Dipakxettri/100DaysProblemSolving)
 
