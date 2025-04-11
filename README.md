@@ -10,6 +10,8 @@
 [![100 Days Problum Solving](https://img.shields.io/badge/100_Days_Java-50%2F100-blue?style=for-the-badge&logo=github)](https://https://github.com/Dipakxettri/100DaysProblumSolving)  
 [![100Days Java](https://img.shields.io/badge/Java%20Challenge-50%2F100-orange?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Dipakxettri/100DaysProblumSolving)  
 [![100 Days Java](https://img.shields.io/badge/100_Days_Java-50/100-orange?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Dipakxettri/100DaysProblumSolving)
+[![100 Days Problem Solving](https://img.shields.io/badge/100_Days_Problem_Solving-5_of_100-blue?style=for-the-badge&logo=pivotaltracker&logoColor=white)](https://github.com/Dipakxettri/100DaysProblumSolving)
+
 
 
 
