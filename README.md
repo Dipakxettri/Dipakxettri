@@ -6,7 +6,7 @@
 
 ## 🔥Challenges
 
-[![100 Days Java](https://img.shields.io/badge/100_Days_Java-50/100-orange?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Dipakxettri/100DaysProblumSolving)  
+[![100 Days Java](https://img.shields.io/badge/100_Days_Java-50/100-orange?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Dipakxettri/100-days-java-challenge)  
 [![100 Days Problem Solving](https://img.shields.io/badge/100_Days_Problem_Solving-5/100-blue?style=for-the-badge&logo=pivotaltracker&logoColor=white)](https://github.com/Dipakxettri/100DaysProblumSolving)
 
 
