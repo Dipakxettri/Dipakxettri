@@ -12,7 +12,7 @@
 
 
 
-[![wakatime](https://wakatime.com/badge/user/your_username.svg)](https://wakatime.com/@your_username)
+[![wakatime](https://wakatime.com/badge/user/dipakxettri.svg)](https://wakatime.com/@dipakxettri)
 
 
 
