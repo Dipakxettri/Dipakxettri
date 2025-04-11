@@ -3,6 +3,13 @@
 - Currently Learnings : [FullStackWebDev](https://github.com/Dipakxettri/Learning-Journey-.git)
 - 📫 Reach me: [FaceBook](https://www.facebook.com/profile.php?id=100079970976913)
 
+
+## 🔥Challenges
+
+[![100 Days Problum Solving](https://img.shields.io/badge/100_Days_Problum_Solving-5%2F100-blue?style=for-the-badge&logo=github)](https://https://github.com/Dipakxettri/100DaysProblumSolving)  
+[![100 Days Problum Solving](https://img.shields.io/badge/100_Days_Java-50%2F100-blue?style=for-the-badge&logo=github)](https://https://github.com/Dipakxettri/100DaysProblumSolving)
+
+
 ## 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,10 +24,6 @@
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 
-## 🔥Challenges
-
-[![100 Days Problum Solving](https://img.shields.io/badge/100_Days_Problum_Solving-5%2F100-blue?style=for-the-badge&logo=github)](https://https://github.com/Dipakxettri/100DaysProblumSolving)  
-[![100 Days Problum Solving](https://img.shields.io/badge/100_Days_Java-50%2F100-blue?style=for-the-badge&logo=github)](https://https://github.com/Dipakxettri/100DaysProblumSolving)
 
 
 
