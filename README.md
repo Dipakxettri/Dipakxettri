@@ -16,6 +16,14 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
+## Challenges
+### 💯 100 Days of Problem Solving Challenge
+
+**Progress:** 26/100 Days Completed
+
+[███████████████---------------] 26%
+
+
 ## 🧩 Leet Code
 <img src="https://leetcard.jacoblin.cool/dipakxettri?" width="400"/>
 
