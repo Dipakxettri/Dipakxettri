@@ -27,8 +27,7 @@
 
 
 
-## 🧩 Leet Code
-<img src="https://leetcard.jacoblin.cool/dipakxettri?" width="400"/>
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipakxettri&show_icons=true&theme=radical)
