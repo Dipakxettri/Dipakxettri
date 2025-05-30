@@ -9,6 +9,10 @@
 [![100 Days Java](https://img.shields.io/badge/100_Days_Java-92/100-orange?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Dipakxettri/100-days-java-challenge)  
 [![100 Days Problem Solving](https://img.shields.io/badge/100_Days_Problem_Solving-29/100-blue?style=for-the-badge&logo=pivotaltracker&logoColor=white)](https://github.com/Dipakxettri/100DaysProblumSolving)
 
+## ⚙️ Environment
+
+![Arch Linux](https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg)
+
 
 ## 💻 Tech Stack:
 
