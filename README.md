@@ -11,7 +11,7 @@
 
 ## ⚙️ Environment
 
-![Arch Linux](https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg)
+![Arch Linux](https://img.shields.io/badge/arch%20linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 
 ## 💻 Tech Stack:
