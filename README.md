@@ -1,8 +1,8 @@
  started my coding journey on my own, and I'll end it through the power of self-learning.
 
-- Currently Dedicated on : Python
+- Currently Dedicated for : Python for ML(https://github.com/Dipakxettri/-.git)
 
-[FullStackWebDev](https://github.com/Dipakxettri/Learning-Journey-.git)
+
 - 📫 Reach me: [FaceBook](https://www.facebook.com/profile.php?id=100079970976913)
 
 
