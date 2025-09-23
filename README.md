@@ -9,7 +9,7 @@ Hey there! I’m Deepak Ghimire — a passionate explorer of technology and the 
 🧠 Solving 6 problems...
 🌌 Exploring algorithmic chaos...
 ✅ Success! Day #042 complete.
-
+```
 
 
 
