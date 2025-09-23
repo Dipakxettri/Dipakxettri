@@ -1,12 +1,11 @@
 Hey There, 
-Hey there! I’m Deepak Ghimire — a passionate explorer of technology and the universe.
 
 - Currently Dedicated for : Python for ML(https://github.com/Dipakxettri/-.git)
 
 ```bash
 ┌─[sereynn@archlinux]
 └──╼ $ whoami
-Hello i am Deepak Ghimire.
+Hello i am Deepak Ghimire. a passionate explorer of technology and the universe.
 ```
 
 
