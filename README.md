@@ -7,7 +7,7 @@
 
 ## chaotic journey  🌌 
 > "EndlessAlgo: Like the expanding universe — infinite, unstoppable, and slightly chaotic." 🌌  
-> [Explore the madness →](https://github.com/Dipakxettri/EndlessAlgo)
+> [Decode the cosmos → ](https://github.com/Dipakxettri/EndlessAlgo)
 
 ## 🔥Challenges
 
