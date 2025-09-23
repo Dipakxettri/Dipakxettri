@@ -1,4 +1,5 @@
- started my coding journey on my own, and I'll end it through the power of self-learning.
+Hey There, 
+I am Deepak Ghimire. a passionate boy about tech and universe.
 
 - Currently Dedicated for : Python for ML(https://github.com/Dipakxettri/-.git)
 
