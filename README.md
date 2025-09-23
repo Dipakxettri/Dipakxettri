@@ -5,7 +5,7 @@
 
 - 📫 Reach me: [FaceBook](https://www.facebook.com/profile.php?id=100079970976913)
 
-## chaotic journey  🌌 
+## Chaotic Journey  🌌 
 > "EndlessAlgo: Like the expanding universe — infinite, unstoppable, and slightly chaotic." 🌌  
 > [Decode the cosmos → ](https://github.com/Dipakxettri/EndlessAlgo)
 
