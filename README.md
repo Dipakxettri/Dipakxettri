@@ -3,6 +3,17 @@ Hey there! I’m Deepak Ghimire — a passionate explorer of technology and the 
 
 - Currently Dedicated for : Python for ML(https://github.com/Dipakxettri/-.git)
 
+```shell
+┌─[deepak@archlinux]─[~/EndlessAlgo]
+└──╼ $ ./grind --daily
+🧠 Solving 6 problems...
+🌌 Exploring algorithmic chaos...
+✅ Success! Day #042 complete.
+
+
+
+
+
 
 - 📫 Reach me: [FaceBook](https://www.facebook.com/profile.php?id=100079970976913)
 
