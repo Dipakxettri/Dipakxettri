@@ -3,7 +3,7 @@ Hey there! I’m Deepak Ghimire — a passionate explorer of technology and the 
 
 - Currently Dedicated for : Python for ML(https://github.com/Dipakxettri/-.git)
 
-```shell
+```bash
 ┌─[sereynn@archlinux]
 └──╼ $ whoami
 Hello i am Deepak Ghimire.
