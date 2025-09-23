@@ -1,5 +1,5 @@
 Hey There, 
-I am Deepak Ghimire. a passionate boy about tech and universe.
+Hey there! I’m Deepak Ghimire — a passionate explorer of technology and the universe.
 
 - Currently Dedicated for : Python for ML(https://github.com/Dipakxettri/-.git)
 
