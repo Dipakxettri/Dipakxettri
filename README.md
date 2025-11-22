@@ -1,6 +1,6 @@
 Hey There, 
 
-- Currently Dedicated for : Python for ML(https://github.com/Dipakxettri/-.git)
+- Currently Dedicated for : AI/ML
 
 ```bash
 ┌─[sereynn@archlinux]
