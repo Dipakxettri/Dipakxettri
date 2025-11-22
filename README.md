@@ -1,4 +1,4 @@
-Hey There, 
+Bonjour,
 
 - Currently Dedicated for : AI/ML
 
