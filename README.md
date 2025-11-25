@@ -5,7 +5,7 @@ Bonjour,
 ```bash
 ┌─[sereynn@archlinux]
 └──╼ $ whoami
-Hello i am Deepak Ghimire. a passionate explorer of technology and the universe.
+Hello i am Deepak Ghimire. a passionate explorer of AI/ML/Technology and the universe.
 ```
 
 
