@@ -40,7 +40,7 @@ Hello i am Deepak Ghimire. a passionate explorer of AI/ML/Technology and the uni
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23E07A5F.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-<h2 align="center"> 💻 Tech Stack: </h2>
+<h2 align="center"> 💻 Tech Stack ⚒️ </h2>
 <br/>
 <div align= "center">
     <a href="https://skillicons.dev">
