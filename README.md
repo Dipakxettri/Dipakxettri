@@ -44,7 +44,7 @@ Hello i am Deepak Ghimire. a passionate explorer of AI/ML/Technology and the uni
 <br/>
 <div align= "center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java.python,linux">
+        <img src="https://skillicons.dev/icons?i=java,python,linux,arch,html,css,">
     </a>
   </div>
 
