@@ -56,6 +56,7 @@ Hello i am Deepak Ghimire. a passionate explorer of AI/ML/Technology and the uni
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/dipakxettri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dipakxettri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -64,8 +65,6 @@ Hello i am Deepak Ghimire. a passionate explorer of AI/ML/Technology and the uni
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/bbb"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bbb" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak&show_icons=true&locale=en&layout=compact" alt="deepak" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipakxettri&show_icons=true&locale=en&layout=compact" alt="dipakxettri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak&show_icons=true&theme=dark&locale=en" alt="deepak" /></p>
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipakxettri&show_icons=true&theme=dark&locale=en" alt="dipakxettri" /></p>
