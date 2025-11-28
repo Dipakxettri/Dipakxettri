@@ -30,7 +30,13 @@ Bonjour,
 
 ![Arch Linux](https://img.shields.io/badge/arch%20linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlrcHUybTloOGFiYzZzenZra243dTFiNGtvMmtianQ4N3d0Y3YzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5iWX6XFTndU0YP0Yut/giphy.gif" width="280"/>
+
+<p align="center">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRkN2YwaXM0amYwaXRmaXZseWljNDVnMDdhMG1wdHhrMW10cTF1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="240"/>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xqa2RrYWw1cWp6emk4MmZtMWFtYXR1enVvNXo2Z29jaWQ5aDJ5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" width="240"/>
+  
+</p>
 
 ### 🛠 Tech Stack
 
