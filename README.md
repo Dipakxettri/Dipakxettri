@@ -6,7 +6,7 @@ Bonjour,
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=38BDF8&width=520&lines=I+am+Deepak+Ghimire;Currently+learning+AI+%26+ML;Always+curious+about+Tech+%26+the+Universe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=38BDF8&width=520&lines=C'est+moi+Deepak+Ghimire;Currently+learning+AI+%26+ML;Always+curious+about+Tech+%26+the+Universe" alt="Typing SVG" />
 </p>
 
 
