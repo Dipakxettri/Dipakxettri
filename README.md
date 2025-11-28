@@ -30,7 +30,7 @@ Bonjour,
 
 ![Arch Linux](https://img.shields.io/badge/arch%20linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-<img src="Text Working GIF by Pudgy Penguins.gif" width="400"/>
+<img src="Text Working GIF by Pudgy Penguins.gif" width="200"/>
 
 ### 🛠 Tech Stack
 
