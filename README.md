@@ -30,6 +30,7 @@ Bonjour,
 
 ![Arch Linux](https://img.shields.io/badge/arch%20linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
+<img src="Bored Let Down GIF by Pudgy Penguins.gif" width="400"/>
 
 ### 🛠 Tech Stack
 
