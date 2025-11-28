@@ -11,9 +11,15 @@ Bonjour,
 > "EndlessAlgo: Like the expanding universe — infinite, unstoppable, and slightly chaotic." 🌌  
 > [Decode the cosmos → ](https://github.com/Dipakxettri/EndlessAlgo)
 
-## 🔥Challenges
+## 📘 What i am learning 
 
-[![100 Days Java](https://img.shields.io/badge/100_Days_Java-92/100-orange?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Dipakxettri/100-days-java-challenge)  
+### Languages
+![French](https://img.shields.io/badge/French-%F0%9F%87%AB%F0%9F%87%B7-blue?style=for-the-badge)
+
+### Tech 
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 ## ⚙️ Environment
 
