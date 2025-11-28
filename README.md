@@ -1,15 +1,8 @@
 Bonjour,
 
-- Currently Dedicated for : AI/ML
-
-```bash
-┌─[sereynn@archlinux]
-└──╼ $ whoami
-Hello i am Deepak Ghimire. a passionate explorer of AI/ML/Technology and the universe.
-```
-
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=38BDF8&width=520&lines=I+am+Deepak+Ghimire;Currently+learning+AI+%26+ML;Always+curious+about+Tech+%26+the+Universe" alt="Typing SVG" />
+</p>
 
 
 - 📫 Reach me: [FaceBook](https://www.facebook.com/profile.php?id=100079970976913)
@@ -45,8 +38,15 @@ Hello i am Deepak Ghimire. a passionate explorer of AI/ML/Technology and the uni
 
 
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipakxettri&show_icons=true&theme=radical)
+## 📈 My GitHub Stats & Tech Stack
+
+![Dipak's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Dipakxettri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dipakxettri&layout=compact&theme=tokyonight)
+
+
+
+
+
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-ghimire2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
