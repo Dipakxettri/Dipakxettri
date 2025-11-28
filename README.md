@@ -1,5 +1,10 @@
 Bonjour,
 
+
+
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=38BDF8&width=520&lines=I+am+Deepak+Ghimire;Currently+learning+AI+%26+ML;Always+curious+about+Tech+%26+the+Universe" alt="Typing SVG" />
 </p>
@@ -47,11 +52,8 @@ Bonjour,
 ## 📈 My GitHub Stats & Tech Stack
 
 ![Dipak's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Dipakxettri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dipakxettri&layout=compact&theme=tokyonight)
-
-
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipakxettri&layout=compact&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dipakxettri&theme=radical&fire=FF4D00&currStreakNum=000000)
 
 
 ## 📫 Connect with me
