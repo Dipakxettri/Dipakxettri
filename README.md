@@ -14,7 +14,7 @@ Bonjour,
 
 ## Chaotic Journey  🌌 
 > "EndlessAlgo: Like the expanding universe — infinite, unstoppable, and slightly chaotic." 🌌  
-> [Decode the cosmos → ](https://github.com/Dipakxettri/EndlessAlgo)
+> [Decode the cosmos → ]([https://github.com/Dipakxettri/EndlessAlgo])
 
 ## 📘 What i am learning 
 
