@@ -11,7 +11,7 @@ Bonjour,
 
 
 
-I'm wired, don't know why
+I'm wired BTW.
 
 ## 📘 What i am learning 
 
