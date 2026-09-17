@@ -10,7 +10,7 @@ Bonjour,
 </p>
 
 
-- 📫 Reach me: [FaceBook](https://www.facebook.com/profile.php?id=100079970976913)
+- [Contact Me](mailto:dipakghimire.c@gmail.com)
 
 I'm wired, don't know why
 
