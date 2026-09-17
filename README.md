@@ -12,9 +12,7 @@ Bonjour,
 
 - 📫 Reach me: [FaceBook](https://www.facebook.com/profile.php?id=100079970976913)
 
-## Chaotic Journey  🌌 
-> "EndlessAlgo: Like the expanding universe — infinite, unstoppable, and slightly chaotic." 🌌  
-> [Decode the cosmos → ](https://github.com/Dipakxettri/EndlessAlgo.git)
+I'm wired, don't know why
 
 ## 📘 What i am learning 
 
