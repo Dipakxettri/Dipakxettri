@@ -26,7 +26,9 @@ I'm wired BTW.
 ## ⚙️ Environment
 
 ![Arch Linux](https://img.shields.io/badge/arch%20linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-%2358E1FF.svg?style=for-the-badge&logo=hyprland&logoColor=black)
 
 <p align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRkN2YwaXM0amYwaXRmaXZseWljNDVnMDdhMG1wdHhrMW10cTF1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="240"/>
