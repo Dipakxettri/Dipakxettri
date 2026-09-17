@@ -10,7 +10,6 @@ Bonjour,
 </p>
 
 
-- [dipakghimire.c@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=dipakghimire.c@gmail.com)
 
 I'm wired, don't know why
 
@@ -65,6 +64,7 @@ I'm wired, don't know why
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-ghimire2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chettriidipak?igsh=MWQwbWx5ejA1cGQ4bg==)
+- [dipakghimire.c@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=dipakghimire.c@gmail.com)
 
 
 
