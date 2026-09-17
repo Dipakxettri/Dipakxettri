@@ -10,7 +10,7 @@ Bonjour,
 </p>
 
 
-- [Contact Me](mailto:dipakghimire.c@gmail.com)
+- [dipakghimire.c@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=dipakghimire.c@gmail.com)
 
 I'm wired, don't know why
 
